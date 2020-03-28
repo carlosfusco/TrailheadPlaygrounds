@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ValidationRule xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Close_Date_Alert</fullName>
+    <active>true</active>
+    <errorConditionFormula>AND(NOT(IsClosed) ,  (CloseDate  &lt;= TODAY() - 1))</errorConditionFormula>
+    <errorMessage>Hey McFly, unless you are planning to go back in time, please update your close date</errorMessage>
+</ValidationRule>
