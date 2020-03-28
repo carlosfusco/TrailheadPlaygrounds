@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ManagedTopics xmlns="http://soap.sforce.com/2006/04/metadata">
+    <managedTopic>
+        <fullName>Category 1 Biking.Featured:Customer Support</fullName>
+        <managedTopicType>Featured</managedTopicType>
+        <name>Customer Support</name>
+        <parentName/>
+        <position>0</position>
+        <topicDescription/>
+    </managedTopic>
+    <managedTopic>
+        <fullName>Category 1 Biking.Featured:New Products</fullName>
+        <managedTopicType>Featured</managedTopicType>
+        <name>New Products</name>
+        <parentName/>
+        <position>2</position>
+        <topicDescription/>
+    </managedTopic>
+    <managedTopic>
+        <fullName>Category 1 Biking.Featured:Social Groups</fullName>
+        <managedTopicType>Featured</managedTopicType>
+        <name>Social Groups</name>
+        <parentName/>
+        <position>1</position>
+        <topicDescription/>
+    </managedTopic>
+    <managedTopic>
+        <fullName>Category 1 Biking.Navigational:Customer Support</fullName>
+        <managedTopicType>Navigational</managedTopicType>
+        <name>Customer Support</name>
+        <parentName/>
+        <position>0</position>
+        <topicDescription/>
+    </managedTopic>
+    <managedTopic>
+        <fullName>Category 1 Biking.Navigational:New Products</fullName>
+        <managedTopicType>Navigational</managedTopicType>
+        <name>New Products</name>
+        <parentName/>
+        <position>1</position>
+        <topicDescription/>
+    </managedTopic>
+    <managedTopic>
+        <fullName>Category 1 Biking.Navigational:Social Groups</fullName>
+        <managedTopicType>Navigational</managedTopicType>
+        <name>Social Groups</name>
+        <parentName/>
+        <position>2</position>
+        <topicDescription/>
+    </managedTopic>
+</ManagedTopics>

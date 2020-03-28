@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- In which zone is this customer based? Depends on region. --></help>
+    <label><!-- Zone --></label>
+    <name>Zone__c</name>
+    <picklistValues>
+        <masterLabel>Africa</masterLabel>
+        <translation><!-- Africa --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Caribbean</masterLabel>
+        <translation><!-- Caribbean --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Central America</masterLabel>
+        <translation><!-- Central America --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Central Canada</masterLabel>
+        <translation><!-- Central Canada --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>East Asia</masterLabel>
+        <translation><!-- East Asia --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>East Coast</masterLabel>
+        <translation><!-- East Coast --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Europe</masterLabel>
+        <translation><!-- Europe --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Middle East</masterLabel>
+        <translation><!-- Middle East --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Midwest US</masterLabel>
+        <translation><!-- Midwest US --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Mountains and the West</masterLabel>
+        <translation><!-- Mountains and the West --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Northeast US</masterLabel>
+        <translation><!-- Northeast US --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Northern Canada</masterLabel>
+        <translation><!-- Northern Canada --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Oceania</masterLabel>
+        <translation><!-- Oceania --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>South America</masterLabel>
+        <translation><!-- South America --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Southeast Asia</masterLabel>
+        <translation><!-- Southeast Asia --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Southeast US</masterLabel>
+        <translation><!-- Southeast US --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Southwest US</masterLabel>
+        <translation><!-- Southwest US --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>The Prairies</masterLabel>
+        <translation><!-- The Prairies --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>UK + Ireland</masterLabel>
+        <translation><!-- UK + Ireland --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>West US</masterLabel>
+        <translation><!-- West US --></translation>
+    </picklistValues>
+</CustomFieldTranslation>
