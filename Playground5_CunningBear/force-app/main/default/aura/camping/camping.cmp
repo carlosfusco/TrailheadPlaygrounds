@@ -1,0 +1,7 @@
+<aura:component>
+  <c:campingHeader></c:campingHeader>
+  <c:campingList></c:campingList>
+  <c:campingListItem></c:campingListItem>
+  <!--IN THIS NEXT CASE I THINK OBJECT WILL BE IMMUTABLE ON THE OTHER SIDE-->
+  <!--<c:campingListItem item="{ 'sobjectType': 'Camping_Item__c', Name:'Test' }" />-->
+</aura:component>
