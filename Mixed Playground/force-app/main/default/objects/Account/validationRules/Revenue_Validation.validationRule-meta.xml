@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ValidationRule xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Revenue_Validation</fullName>
+    <active>true</active>
+    <errorConditionFormula>AnnualRevenue   &lt;  (20  *  $CustomMetadata.Support_Tier__mdt.Gold.Minimum_Spending__c )</errorConditionFormula>
+    <errorDisplayField>AnnualRevenue</errorDisplayField>
+    <errorMessage>The annual revenue is not enough to Gold Status.</errorMessage>
+</ValidationRule>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ValidationRule xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Insuficient_Resources</fullName>
+    <active>true</active>
+    <errorConditionFormula>User__r.Points__c &lt; Trade__r.Spend__c</errorConditionFormula>
+    <errorMessage>Not enough points.</errorMessage>
+</ValidationRule>
