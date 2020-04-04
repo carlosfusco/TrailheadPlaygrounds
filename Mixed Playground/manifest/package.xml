@@ -21,6 +21,10 @@
 		<name>ApexTrigger</name>
 	</types>
 	<types>
+		<members>*</members>
+		<name>AppMenu</name>
+	</types>
+	<types>
 		<members>Case.Standard</members>
 		<members>Lead.Standard</members>
 		<name>AssignmentRule</name>

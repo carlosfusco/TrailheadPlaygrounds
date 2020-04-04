@@ -8,6 +8,18 @@
         <layoutColumns>
             <layoutItems>
                 <behavior>Required</behavior>
+                <field>colorTheme__c</field>
+            </layoutItems>
+            <layoutItems>
+                <behavior>Required</behavior>
+                <field>numberOfFlowers__c</field>
+            </layoutItems>
+            <layoutItems>
+                <behavior>Required</behavior>
+                <field>percentOfOpening__c</field>
+            </layoutItems>
+            <layoutItems>
+                <behavior>Required</behavior>
                 <field>OrderId</field>
             </layoutItems>
             <layoutItems>
@@ -80,12 +92,20 @@
         <layoutColumns/>
         <style>TwoColumnsLeftToRight</style>
     </layoutSections>
+    <miniLayout>
+        <fields>colorTheme__c</fields>
+        <fields>numberOfFlowers__c</fields>
+        <fields>percentOfOpening__c</fields>
+    </miniLayout>
+    <multilineLayoutFields>OrderId</multilineLayoutFields>
     <multilineLayoutFields>Product2Id</multilineLayoutFields>
-    <multilineLayoutFields>Quantity</multilineLayoutFields>
+    <multilineLayoutFields>colorTheme__c</multilineLayoutFields>
     <multilineLayoutFields>UnitPrice</multilineLayoutFields>
+    <multilineLayoutFields>numberOfFlowers__c</multilineLayoutFields>
+    <multilineLayoutFields>Quantity</multilineLayoutFields>
+    <multilineLayoutFields>percentOfOpening__c</multilineLayoutFields>
     <multilineLayoutFields>ListPrice</multilineLayoutFields>
     <multilineLayoutFields>Description</multilineLayoutFields>
-    <multilineLayoutFields>OrderId</multilineLayoutFields>
     <showEmailCheckbox>false</showEmailCheckbox>
     <showRunAssignmentRulesCheckbox>false</showRunAssignmentRulesCheckbox>
     <showSubmitAndAttachButton>false</showSubmitAndAttachButton>
