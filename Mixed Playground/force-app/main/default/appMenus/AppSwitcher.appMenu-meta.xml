@@ -96,4 +96,8 @@
         <name>BOTanicals</name>
         <type>CustomApplication</type>
     </appMenuItems>
+    <appMenuItems>
+        <name>Recruiting</name>
+        <type>CustomApplication</type>
+    </appMenuItems>
 </AppMenu>
